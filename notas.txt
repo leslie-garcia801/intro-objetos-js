@@ -1,0 +1,4 @@
+1. Nodejs permite ejecutar JavaScript fuera del navegador
+2. EL REPL sirve para ejecutar cosas rapido, no para construir proyectos
+3. typeof sirve para ver el tipo de dato de una variable
+4. node sirve para iniciar un programa utilizando Nodejs
